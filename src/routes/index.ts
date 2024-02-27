@@ -1,5 +1,5 @@
 import express from 'express'
-import user from './api/user'
+import user from './api/userRoute'
 
 const router = express.Router()
 router.use(user)

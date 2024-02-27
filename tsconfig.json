@@ -6,9 +6,6 @@
     "strict": true,
     "esModuleInterop": true,
     "experimentalDecorators": true,
-    "emitDecoratorMetadata": true,
-    "paths": {
-      "@routes/*": ["./src/routes/*"],
-    }
+    "emitDecoratorMetadata": true
   }
 }
